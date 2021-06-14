@@ -8,8 +8,8 @@ on:
     
 env:              
   ROM_URL: 'http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2031_A_1.19.18-update-full_1619161814.zip'
-  ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Generic'
+  ZIP_NAME: 'PD2031_A_1.19.18-update-full_1619161814.zipPD2031_A_1.19.18-update-full_1619161814.zip'
+  OS_TYPE: 'origin os'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
