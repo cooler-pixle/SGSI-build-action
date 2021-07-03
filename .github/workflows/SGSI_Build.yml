@@ -9,7 +9,7 @@ on:
 env:              
   ROM_URL: 'https://bigota.d.miui.com/V12.5.1.0.RJDCNXM/miui_APOLLO_V12.5.1.0.RJDCNXM_2efbaeca9c_11.0.zip'
   ZIP_NAME: 'miui_APOLLO_V12.5.1.0.RJDCNXM_2efbaeca9c_11.0.zip'
-  OS_TYPE: 'Miui'
+  OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
